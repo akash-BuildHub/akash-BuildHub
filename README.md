@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akash-BuildHub/akash-BuildHub/main/banner.png" width="100%" alt="Akash R M — AI Developer"/>
+  <img src="https://raw.githubusercontent.com/akash-BuildHub/akash-BuildHub/main/banner.gif" width="100%" alt="Akash R M — AI Developer"/>
 </p>
 
 <!-- TYPING HEADER -->
@@ -26,7 +26,7 @@
 ### 👨‍💻 About Me
 
 ```python
-class Akash RM:
+class AkashRM:
     def __init__(self):
         self.name = "Akash R M"
         self.role = "AI Developer & Computer Vision Engineer"
