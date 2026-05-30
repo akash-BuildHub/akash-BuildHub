@@ -26,7 +26,7 @@
 ### 👨‍💻 About Me
 
 ```python
-class AkashRM:
+class Akash R M:
     def __init__(self):
         self.name = "Akash R M"
         self.role = "AI Developer"
