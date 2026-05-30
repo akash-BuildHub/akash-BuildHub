@@ -190,18 +190,6 @@ class AkashRM:
 
 ---
 
-### 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Year |
-|--------|-------------|------|
-| B.E. Computer Science & Engineering | Bethlahem Institute of Engineering, Tamil Nadu | 2020 – 2024 |
-
-</div>
-
----
-
 ### 📚 Currently Learning
 
 ```text
