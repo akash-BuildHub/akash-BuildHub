@@ -21,7 +21,7 @@
 ---
 
 <!-- CODE-BLOCK ABOUT ME -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/akash-BuildHub/akash-BuildHub/main/about-me.jpg"/>
+<img align="right" width="320" src="https://raw.githubusercontent.com/akash-BuildHub/akash-BuildHub/main/profile.jpeg" alt="Akash R M"/>
 
 ### 👨‍💻 About Me
 
