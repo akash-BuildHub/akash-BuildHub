@@ -26,21 +26,34 @@
 ### 👨‍💻 About Me
 
 ```python
-class Akash R M:
+class Akash RM:
     def __init__(self):
         self.name = "Akash R M"
-        self.role = "AI Developer"
+        self.role = "AI Developer & Computer Vision Engineer"
         self.location = "Tamil Nadu, India"
-        self.degree = "B.E. Computer Science & Engineering"
-        self.stack = ["Python", "PyTorch", "TensorFlow",
-                      "OpenCV", "FastAPI", "React"]
-        self.currently_learning = ["Advanced MOT",
-                                   "Model Optimization",
-                                   "Edge Deployment"]
-        self.fun_fact = "I teach cameras to understand what they see."
+        self.stack = [
+            "Python",
+            "PyTorch",
+            "TensorFlow",
+            "OpenCV",
+            "FastAPI",
+            "React",
+            "Computer Vision",
+            "Machine Vision",
+            "Deep Learning",
+            "Artificial Intelligence"
+        ]
+        self.currently_learning = [
+            "Advanced Object Detection, Tracking, and Recognition",
+            "AI Model Optimization",
+            "Edge AI Deployment",
+            "Real-Time Video Analytics",
+            "Production-Ready AI Systems"
+        ]
+        self.fun_fact = "Think it. Let AI build it."
 
     def motto(self):
-        return "Build robust, real-time AI that ships to production."
+        return "Building robust, real-time AI systems that ship to production."
 ```
 
 <br clear="right"/>
