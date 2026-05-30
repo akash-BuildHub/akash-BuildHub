@@ -37,7 +37,7 @@ class Akash:
         self.currently_learning = ["Advanced MOT",
                                    "Model Optimization",
                                    "Edge Deployment"]
-        self.fun_fact = "I think and the AI work."
+        self.fun_fact = "think it, let the AI do it"
 
     def motto(self):
         return "Build robust, real-time AI that ships to production."
