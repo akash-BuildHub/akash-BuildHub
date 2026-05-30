@@ -6,7 +6,7 @@
 <!-- TYPING HEADER -->
 <p align="center">
   <a href="https://github.com/akash-BuildHub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=AI+Developer+%26+Computer+Vision+Engineer;Deep+Learning+%7C+Real-Time+AI+Systems;YOLO+%7C+Multi-Object+Tracking+%7C+Action+Recognition;Optimizing+models+for+production" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=AI+Developer+%26+Computer+Vision+Engineer;Deep+Learning+%7C+Machine+Learning+%7C+AI+Implementation;Object+Detection+%7C+Action+Recognition+%7C+Real-Time+Vision+Systems;Model+Optimization+for+Scalable+Deployment" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -26,7 +26,7 @@
 ### 👨‍💻 About Me
 
 ```python
-class Akash:
+class AkashRM:
     def __init__(self):
         self.name = "Akash R M"
         self.role = "AI Developer"
@@ -37,7 +37,7 @@ class Akash:
         self.currently_learning = ["Advanced MOT",
                                    "Model Optimization",
                                    "Edge Deployment"]
-        self.fun_fact = "think it, let the AI do it"
+        self.fun_fact = "I teach cameras to understand what they see."
 
     def motto(self):
         return "Build robust, real-time AI that ships to production."
