@@ -26,7 +26,7 @@
 ### 👨‍💻 About Me
 
 ```python
-class AkashRM:
+class Akash:
     def __init__(self):
         self.name = "Akash R M"
         self.role = "AI Developer"
@@ -37,7 +37,7 @@ class AkashRM:
         self.currently_learning = ["Advanced MOT",
                                    "Model Optimization",
                                    "Edge Deployment"]
-        self.fun_fact = "I teach cameras to understand what they see."
+        self.fun_fact = "I think and the AI work."
 
     def motto(self):
         return "Build robust, real-time AI that ships to production."
