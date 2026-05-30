@@ -1,3 +1,4 @@
+ GitHub Stats
 <!-- HERO BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20R%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20Deep%20Learning%20%26%20Computer%20Vision&descAlignY=62&descSize=16" width="100%"/>
@@ -21,7 +22,7 @@
 ---
 
 <!-- CODE-BLOCK ABOUT ME -->
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="https://raw.githubusercontent.com/akash-BuildHub/akash-BuildHub/main/about-me.gif"/>
 
 ### 👨‍💻 About Me
 
