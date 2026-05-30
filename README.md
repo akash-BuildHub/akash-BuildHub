@@ -6,7 +6,7 @@
 <!-- TYPING HEADER -->
 <p align="center">
   <a href="https://github.com/akash-BuildHub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=AI+Developer+%26+Computer+Vision+Engineer;Deep+Learning+%7C+Machine+Learning+%7C+AI+Implementation;Object+Detection+%7C+Action+Recognition+%7C+Real-Time+Vision+Systems;Model+Optimization+for+Scalable+Deployment" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=AI+Developer+%26+Computer+Vision+Engineer;Specialized+in+Deep+Learning%2C+Machine+Learning+%26+Real-Time+AI+Systems" alt="Typing SVG"/>
   </a>
 </p>
 
