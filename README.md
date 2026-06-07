@@ -53,7 +53,7 @@ class AkashRM:
         self.fun_fact = "Think it. Let AI build it."
 
     def motto(self):
-        return "Building robust, real-time AI systems that ship to production."
+        return "Building, real-time AI systems that ship to production."
 ```
 
 <br clear="right"/>
