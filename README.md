@@ -194,11 +194,12 @@ class Akash_RM:
 <summary><b>AI Developer — GROW AI (iQue Ventures Pvt. Ltd.)</b> · Bengaluru · 2026 – Present</summary>
 <br/>
 
-> `Computer Vision` `YOLO` `Multi-Object Tracking` `RTSP` `Real-Time Inference`
+> `Computer Vision` `Face Recognition` `Multi-Object Tracking` `RTSP` `WebRTC` `GPU Inference`
 
-- Developed real-time person detection and multi-object tracking systems for video analytics applications.
-- Engineered end-to-end pipelines for live camera stream processing with optimized inference performance.
-- Enhanced detection robustness through threshold tuning and tracking refinement.
+- Built real-time person detection and multi-object tracking systems for video analytics, processing live RTSP camera streams with optimized GPU inference.
+- Engineered a production facial-recognition attendance platform end to end — face detection/recognition pipeline, FastAPI backend, PostgreSQL data layer, and React + TypeScript dashboard.
+- Improved detection robustness and recognition accuracy through threshold tuning, embedding-quality validation, and tracking refinement.
+- Deployed and maintained low-latency live video streaming via WebRTC and MSE/fMP4 across multiple concurrent cameras.
 
 </details>
 
@@ -209,8 +210,8 @@ class Akash_RM:
 > `Deep Learning` `Detection & Recognition` `ML Pipelines` `Backend Integration`
 
 - Designed and implemented deep learning models for detection and recognition tasks.
-- Built scalable ML pipelines covering preprocessing, training, evaluation, and deployment.
-- Integrated AI models into production backend systems.
+- Built scalable ML pipelines spanning preprocessing, training, evaluation, and deployment.
+- Integrated trained AI models into production backend systems and APIs.
 
 </details>
 
@@ -220,52 +221,105 @@ class Akash_RM:
 
 > `Technical Writing` `Data Science` `Research` `Model Studies`
 
-- Produced technical documentation for deep learning and data science research.
+- Produced technical documentation for deep learning and data science research projects.
 - Contributed to dataset analysis, experimental evaluation, and comparative model studies.
 
 </details>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-<div align="center">
-
-| Project | Stack | Highlights |
-|---------|-------|------------|
-| **AI Real-Time Person Detection & Tracking** | YOLO · MOT · RTSP · Python | Real-time detection pipeline over RTSP streams with optimized inference and frame-wise unique person counting |
-| **Cricket Shot Classification & Batting Analysis** | CNN-LSTM · MobileNetV2 · FastAPI | Video-based action recognition with confidence scoring and performance-tiering APIs |
-| **Vision Snap — CV Dataset Tool** | React · JavaScript | Webcam capture, video frame extraction, and automated dataset packaging workflows |
-
-</div>
-
-<details>
-<summary>📦 More projects</summary>
+<details open>
+<summary><b>Real-Time Facial Recognition Attendance Platform</b> · 2026</summary>
 <br/>
 
-- **ALL IN ONE — OCR Web Application** (2025) · JavaScript · Modular OCR app extracting text and images from documents with structured multi-page processing.
-- **Hospital Management System with Brain Tumor Detection** (2024) · Django · Auth workflows integrated with deep-learning tumor detection and medical reporting.
-- **Tech Media Community — Collaborative Learning Platform** (2023) · Full-stack · Secure authentication and dynamic rendering.
+> `InsightFace` `ONNX Runtime (CUDA)` `FastAPI` `PostgreSQL` `React 19` `WebRTC` `Docker`
+
+- Full-stack workforce platform: automated attendance from live camera face recognition, payroll computation, and HR/admin dashboards.
+- Backend in FastAPI + SQLAlchemy + PostgreSQL; GPU face recognition with InsightFace + ONNX Runtime CUDA; JWT/bcrypt role-based auth.
+- Live multi-camera streaming via WebRTC, aiortc, and PyAV, plus a React 19 + TanStack + Tailwind frontend and a Capacitor Android app.
+- Containerized with Docker and deployed on Railway with Cloudflare tunneling.
+
+</details>
+
+<details>
+<summary><b>AI Real-Time Person Detection & Tracking System</b> · 2026</summary>
+<br/>
+
+> `YOLO` `Multi-Object Tracking` `RTSP` `Python`
+
+- Built a real-time person detection and multi-object tracking pipeline using YOLO, processing RTSP streams with optimized inference.
+- Implemented frame-wise analytics and unique person counting.
+
+</details>
+
+<details>
+<summary><b>AI Cricket Shot Classification & Batting Analysis System</b> · 2026</summary>
+<br/>
+
+> `CNN-LSTM` `MobileNetV2` `FastAPI` `Action Recognition`
+
+- Developed a cricket shot classifier using a CNN-LSTM architecture with MobileNetV2 for video-based action recognition.
+- Designed preprocessing/feature-engineering pipelines and backend APIs for confidence scoring and performance tiering.
+
+</details>
+
+<details>
+<summary><b>Vision Snap — Computer Vision Dataset Tool</b> · 2025</summary>
+<br/>
+
+> `React` `Webcam Capture` `Dataset Automation`
+
+- Built a dataset-generation tool in React with webcam capture, video frame extraction, and automated dataset packaging workflows.
+
+</details>
+
+<details>
+<summary><b>ALL IN ONE — OCR Web Application</b> · 2025</summary>
+<br/>
+
+> `JavaScript` `OCR` `Modular Architecture`
+
+- Built a JavaScript OCR web app with a modular architecture and responsive UI for structured, multi-page text and image extraction.
+
+</details>
+
+<details>
+<summary><b>Hospital Management System with Brain Tumor Detection</b> · 2024</summary>
+<br/>
+
+> `Django` `Deep Learning` `Medical Imaging`
+
+- Django-based hospital management system with authentication workflows and integrated deep-learning tumor detection and medical reporting.
 
 </details>
 
 ---
 
-### 🏆 Achievements & Experience
+### 🏆 Internships & Certifications
 
 <div align="center">
 
-| | Highlight | Details |
-|---|-----------|---------|
+| | Role | Organization & Period |
+|---|------|----------------------|
+| 🌐 | Python/Django Intern | Clovion Tech Solutions Pvt. Ltd., Tamil Nadu · Jan 2024 – Mar 2024 |
 | 🐍 | Python Programming Intern | Srishti Innovations, Technopark, Kerala · July 2023 |
-| 🏭 | In-Plant Training | iTrobes Technologies Pvt. Ltd., Tamil Nadu · July 2022 |
-| 👁️ | Computer Vision Focus | Production real-time detection, MOT, and action-recognition systems |
-| ⚡ | ML Pipelines | End-to-end preprocessing → training → evaluation → deployment |
+| 🏭 | In-Plant Training | iTrobes Technologies Pvt. Ltd., Tamil Nadu |
 
 </div>
 
 ---
 
+### 📚 Currently Learning
+
+```text
+🧱 Multi-Object Tracking   → ByteTrack → DeepSORT → re-identification
+⚙️ Model Optimization      → quantization → pruning → metaheuristics
+📡 Edge Deployment         → real-time inference → streaming (RTSP / WebRTC)
+```
+
+---
 
 <!-- FOOTER WAVE -->
 <p align="center">
