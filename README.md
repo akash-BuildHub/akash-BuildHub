@@ -178,18 +178,10 @@ class Akash_RM:
 
 ### 📊 GitHub Stats
 
-<!-- STATS CARD + TOP LANGUAGES (side by side) -->
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=akash-BuildHub&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=BF91F3&text_color=C9D1D9&ring_color=70A5FD&border_radius=10" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-BuildHub&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=C9D1D9&border_radius=10" alt="Top Languages"/>
-</div>
-
-<!-- STREAK -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=akash-BuildHub&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
-<!-- CONTRIBUTION / ACTIVITY GRAPH -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash-BuildHub&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
