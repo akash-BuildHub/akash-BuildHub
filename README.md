@@ -311,16 +311,6 @@ class Akash_RM:
 
 ---
 
-### 📚 Currently Learning
-
-```text
-🧱 Multi-Object Tracking   → ByteTrack → DeepSORT → re-identification
-⚙️ Model Optimization      → quantization → pruning → metaheuristics
-📡 Edge Deployment         → real-time inference → streaming (RTSP / WebRTC)
-```
-
----
-
 <!-- FOOTER WAVE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
