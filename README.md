@@ -192,18 +192,6 @@ class Akash_RM:
 </details>
 
 <details>
-<summary><b>AI Developer — Owlytics (iQue Ventures Pvt. Ltd.)</b> · Bengaluru · 2025 – 2026</summary>
-<br/>
-
-> `Deep Learning` `Detection & Recognition` `ML Pipelines` `Backend Integration`
-
-- Designed and implemented deep learning models for detection and recognition tasks.
-- Built scalable ML pipelines spanning preprocessing, training, evaluation, and deployment.
-- Integrated trained AI models into production backend systems and APIs.
-
-</details>
-
-<details>
 <summary><b>Assistant Technical Writer — Rpinnacle Research Solutions</b> · Tamil Nadu · 2024 – 2025</summary>
 <br/>
 
