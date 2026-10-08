@@ -179,7 +179,7 @@ class Akash_RM:
 ### 💼 Work Experience
 
 <details>
-<summary><b>AI Developer — GROW AI (iQue Ventures Pvt. Ltd.)</b> · Bengaluru · 2026 – Present</summary>
+<summary><b>AI Developer — GROW AI (iQue Ventures Pvt. Ltd.)</b> · Bengaluru · 2025 – Present</summary>
 <br/>
 
 > `Computer Vision` `Face Recognition` `Multi-Object Tracking` `RTSP` `WebRTC` `GPU Inference`
